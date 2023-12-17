@@ -1,4 +1,7 @@
 
+## Demo
+![](demo.mp4)
+
 ## How to start
 
 ```bash
