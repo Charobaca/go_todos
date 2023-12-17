@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  todo_api:
+    build: .
+    ports:
+      - 3242:3242
+
+  redis:
+    image: "redis"
+    volumes: 
+      - cache:/data
+
+volumes:
+  cache:
+    driver: local
