@@ -1,6 +1,6 @@
 
 ## Demo
-![](demo.mp4)
+![](demo.gif)
 
 ## How to start
 
